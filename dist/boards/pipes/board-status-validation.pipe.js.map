@@ -1,0 +1,1 @@
+{"version":3,"file":"board-status-validation.pipe.js","sourceRoot":"","sources":["../../../src/boards/pipes/board-status-validation.pipe.ts"],"names":[],"mappings":";;;AAEA,MAAa,yBAAyB;IACpC,SAAS,CAAC,KAAU,EAAE,QAA0B;QAC9C,OAAO,CAAC,GAAG,CAAC,KAAK,CAAC,CAAC;QACnB,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC,CAAC;QAEtB,OAAO,KAAK,CAAC;IACf,CAAC;CACF;AAPD,8DAOC"}
